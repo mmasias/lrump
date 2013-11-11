@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="48" height="24" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="Ultima_5_-_Tiles" tilewidth="16" tileheight="16">
+  <image source="Ultima_5_-_Tiles.png" width="512" height="288"/>
+ </tileset>
+ <tileset firstgid="577" name="Ultima_4_-_Tiles" tilewidth="16" tileheight="16">
+  <image source="Ultima_4_-_Tiles.png" width="256" height="256"/>
+ </tileset>
+ <imagelayer name="Map" width="48" height="24">
+  <image source="Nesatlas-map.jpg"/>
+ </imagelayer>
+ <layer name="u4" width="48" height="24">
+  <data encoding="base64" compression="zlib">
+   eJy9l81ugzAQhCMerQGaKPTOqXn/t2gtsdJ0NONdnLaHUQhg77c/Xpt1ulwW0Pqt26GloBXU/r8lavPeD1VtLDD/KtTuP+HdHv9qrkMj/O8F7ixuqNv00wflr1LGjvy3g5vVY3Z+sf/M73xv19sgv/MB7cyH2Cbyuxg4H1wOKuzMfzfsMynsbsI2jn8Y/syHKrvygePA7HPHLvNn68DVErJV8hJz4xpW3MoHlmN3PnzQ8x3mqa7pEX7ng4o/5sjVEfO4PGb8UUMV/p4fj0IOFIeLRfjhxnAfOsv/ah+v5LI35lX+0d6BHBEDXBPIv3dyzn10tHaqrHz/OdX2gqxuz66Bq7EV82yT7suq5zC78l3FL3LE+xjbeYp7V/qNee8kHjeyX+GZEfdOx5/1ciWVI/QhbH7C/8pZmX0PZexxDlBxZ/VqTuVBnUGz2Kv+xLlmfsV6ht/Zccr4mQ/HBssZbpRjjzrMYtVbu1X2V+T43f7Ev/juDvoP9owfv4d63wvxXOVA8Y9wtrmih52pHxVnzoHrR/Fu259xvx3hx17c42cfuJdhTvh7tXre+a3aqfD31gPGJOujf8X/BYhiQBQ=
+  </data>
+ </layer>
+ <layer name="Decoration" width="48" height="24">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUkALYmQfaBcMf/GMaaBcMLBCmYhobTa+jYLABUvP3ZzLLgycjvBwZBcSDm6NpZcgCIRrWcVdH0wXVARsJ8cUxgO2X5NG4H3ZgCzBONwHxQiBeB8SbgXglEK8B4m1I4iuh7MEGJgDdtBuIFwHxTih7M9T9C6HsFVDxCQTcDwCvORaJ
+  </data>
+ </layer>
+</map>
