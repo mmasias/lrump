@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="32" height="22" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="Ultima_4_-_Tiles" tilewidth="16" tileheight="16">
+  <image source="Ultima_4_-_Tiles.png" width="256" height="256"/>
+ </tileset>
+ <imagelayer name="Image Layer 1" width="32" height="22">
+  <image source="Forest.png"/>
+ </imagelayer>
+ <layer name="Tile Layer 1" width="32" height="22">
+  <data encoding="base64" compression="zlib">
+   eJytlMEKwzAMQwuhScuW+07bz+z/v2kUWjBCsuN0B0Ob1n6K4rgty9JErH8IVVtFPcPyH6TejJY6wM/W76CNaZ7V0CAP/Yy8vtbqTX518qJzxrP0+MqvSDPzJuvTEV/Bj/oYz58xP4MaRvulmmB5qv+aU1PVZ/+vDj975zOzIDtv7mrD/LfgdpFXSNzhj+y5AdueVXFyIt6IXtwr9rLyYGaPih3VYh7Y77uJ4307nyO9I2zGV+z9ZFs+myPX88thPoGfYW9mzeaxXvdmkuK3YN8s7BxjfE8H678Mm3mBd11pUP2vfO/wvon/GKM4a57/yIvCalQ68G6gd6wH8M5dEenJzJIfe6gRtg==
+  </data>
+ </layer>
+ <layer name="Decoration" width="32" height="22">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgF9ACvBtoBVAKrBtoBdADaA+2AUTAKRgFB0AjEPwfaEaOAYQURaqKBOI7WDhkFgxqkA3ERECcCcTEUkwLeUWh/NRDnQO3PA+IUIAYAg6kJww==
+  </data>
+ </layer>
+</map>
