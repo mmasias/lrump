@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="128" height="128" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="ultima4tilesetc64" tilewidth="16" tileheight="16">
+  <image source="ultima4tilesetc64.jpg" trans="e400ff" width="256" height="256"/>
+ </tileset>
+ <imagelayer name="Image Layer 1" width="128" height="128">
+  <image source="snes-super-mario-world-world-map.png"/>
+ </imagelayer>
+ <layer name="Tile Layer 1" width="128" height="128">
+  <data encoding="base64" compression="zlib">
+   eJztnYmKWzEMRQdKof//xSW0D954vGiXbN8DYUjiVVeyZU/gfX0BAAAAAAAAAAAAACDj9+QFzmamPfzgbKjaQ/8zgf53w9EfPnAm0B5AewBkIGbuZKU1fOFcOLpifTgDS+3gB3X507w8tYIP1OKjRav/n4A+4QPfydgv39q/8db/6TuTkb2p+a1UL059L19YxfmJawBHb4nO2u9//X9Rxq+BusZHrQGePkCNz1HstW1I+6XWnemvbfsDJ64j9P9gqb9mTaZ85g1F/zfUuUryuqh80HINkLQz23ujWe0BLRz9tXj6Qrb+Vm1J+dV5UaDGjkUse64Dlvpz26qif/uemgtwqLwHZLTFzQm96Gm90l+6b1L0jDj/vcmK/5X+UT4w0n/kA5bnQOrnXljZ2XLtp35vRU/rkf7W+XLkve9oDBZtaHL/ajlAhPaebUb3rW2DcgfrzSz/97oHfrcfTRXt27ay7wJG2nsT7QOZ6z63zSz9I9fmXfX3IEL/3pr+rP0Ze3J0n1Xj/2l39t6y/fccsrR/s9te47UHzN57tO+d41GB/vH6V2HnXMPzDtHaxyrEeUvkOcMzn7Jox7P9VT8ZnHLOsLoHWn1vsVdH2Hw21qyco8o9Vk9L7rgyfIBTZ3TOyN5/ou5tZuUqreUcH+SWk9SNICOfirovsGivF7ttDM/qVtB4hme+riknHYNHmzMtR59V1/3BYqzcNiqfOyT9VhiHBs2Yo+uN2oq2OTWfz8rvueykf6RNLbWs7AOaOUn7k9aLsKGnf1X1g+r6R2of0UclP4iM/4w7Hk4fkZpU8AFt/ifRUtKPF9mxmKl/9PkvOs9YjaNK/GX1a3n/Y1nuXd5qnJU0fwP9++Wsx1dJ84fscWXovyprbZNsG7dUWoMs11WrPj32ek7ZVh8rvapo/sZKf0mdXj2v+xZJ2Z7uWl+qhnVeJa3naSOJZtzvJOUqYL3PVkSzPkn8s6odekD//fvTcHKe/QD9f+K151bzgejxVJt/D+8xVpo/tP9OxBir2AHa/yRqjJnn3ox+Z/cZ1e4AMuIios9sO/f6Ht0nZY/zhD6r2PMN574wc33ctc9qevfg+OUt5xPLe+Yd6K37s7KR+2MG2n530v5Dbx/I9oFM+2nmt5v2b0b5X1sm4k4m24bSMWSPW8NM79H3XuOoANfXK/itlqyYn/WfDWVMFcctJfNOqqoNe+ekHc53UqLmtaP9dhuvBq+57qj7rXDWO8o6Cc33hJoHgXOB/ufSe6Z3+4yXk85B2J/+wXm2M8U2le1nmcOc4iuUZzg9PrCr/l56neAHnGd47ah/5D3GjkToT3lenEcsReqyqw9Y6t+zwSyfbOtZ+0DGPfZucJ7j+OQArUa9zyjnibYu9LeH8rxOig/0zoIrvSixT21Lwu3rf8/mPS2o+u9IlC7V9Kc+s1sS+zsRvQZUwUqvnbX/EKlJpv7UvVbS5s5U0d/zmeme7e5OJf2fv5Z29YzRE+Pf65y5am+Uh6+YnaEj9DlB/5E+Gv25fkQ9i63qUOpZc8I60KKJf2ndlZ6UsllUGosF2tiXQvGBato/VByTFG38a1it95XtbH3GzET6Ow8v/XfjBB+gYP3/qZNsdosPaPC4m6vGyXPTcJtNbpvvittsAf2/c9O6eMs8JdxgmxvmqOEG28AH+txkl5vmSuFGe9w45xG32uHWebfcGAs3znnGLefAW+Yp5WTbnDw3S06004lz8qSyrWa/OZzVAXQkv/+MQPp7RCCjteko5iJszPVH5Ho2UGw5svusHlUjaLg/K5/g+g4AAAAAAAAAVOYvxDIc+A==
+  </data>
+ </layer>
+</map>
