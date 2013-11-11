@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="32" height="32" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="Ultima_4_-_Tiles" tilewidth="16" tileheight="16">
+  <image source="Ultima_4_-_Tiles.png" width="256" height="256"/>
+ </tileset>
+ <imagelayer name="Map" width="32" height="32">
+  <image source="512map.jpg"/>
+ </imagelayer>
+ <layer name="Tile Layer 1" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzdl11uwzAMgw0jtuuT7f43GgbEAMtSP3b2MOxBSJM0/kRKcptaSqn/OF4Qu8/2+zjENS8a8U9zR/4on7k0OM6bNe/zRvysBx1iGPy+wVeeZLWj1xZ/BbMbrDMO+JzDKO86mojlgeKj/3MzB/bRYivvl18n+lUdKjHX+dLH/CnW2JkJTy+yuO7Iysysx8Y9hNnMZ23XQzb3N9eZc7DmPJsHrol7wa5ffD3Tg6xpsZdmrkOmButatAeoWZoG2+JbMcr7HnrSc9VgZ2d4l6/ipI+VD+qe6pnfygP17+wFyMz6h4H7/JXgW7O20z8WvwZs5J96dNoXWPtOa3sMrMsQ33/Sq5mes+oxgueeeGt9zuiP/nfwDPaAr9jqOzPJz+bgeWTpfiX5yr9ecv3gabkgj4iNv/EqpygHfuf5WesL1o10K77lracbtUZsz3/vnleTJ+9emRwztfjr8Q1kMg4O
+  </data>
+ </layer>
+ <layer name="Buildings" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJy9l90OgjAMhUe4AkS95EpfxQve/5mERGLT9PRvg5M0cXP0q11XZldK6U4ySbXPUz+SX67hZ2swBqq3EYumAcx7f28PPnu0bDZWsClzSvCRIvvdE67GvyW+88awMH42DysbW3mgPJqHVrLqn9eeFAMdr2B+15TgeyXFdMxpZ7cFm/JnEA9fh/hR3Td7bPYs/xrVpPVASz2wT/HneyTrPGx+Xqz4InMaX+qZSFJdWzFYfMvPDFfhM8zjzNSd1oO0HoKeo2ytf2vy9lCpLjNnTuIin0f9ajnjerExyltN7Bofie5hK/bhRzrnOwvdnSyhvY70+j0m2gdavnujvTd697J6kicPLXnUn9R/Kb/mru2Rxb9SXr7n3crl6acan+9p9O5rrTsz/9Z/hsi9MxMjX9+x+VrzsL32BSzvBlM=
+  </data>
+ </layer>
+ <layer name="Addornments" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztz0EKABAURVFLsTUzykxKWblMvIE1/K/cU7dk8ggBAN4WDTa2wcYLfvknAHhb3g8A4K6rqYoaxttNVZXuOd/7A7M9Bvw=
+  </data>
+ </layer>
+</map>
