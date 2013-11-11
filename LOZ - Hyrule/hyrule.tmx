@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="32" height="32" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="Ultima_4_-_Tiles" tilewidth="16" tileheight="16">
+  <image source="Ultima_4_-_Tiles.png" width="256" height="256"/>
+ </tileset>
+ <imagelayer name="Map" width="32" height="32">
+  <image source="zelda-512.png"/>
+ </imagelayer>
+ <layer name="Tile Layer 1" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJy9lo0KwzAIhCWj3bon6Ps/6ShUuF7O/AkThJFm+fQ0toeZHX/ycnv2nM/tvP4iv9bcnI9njJ6r9qn/ZPifhs/sQTbzeznMeKSNYqP1NIzW+Ddrjd6ykRxYE7Xe4yjL9D7rv8rHGPz3dvtMP2T46Ct877MMH7Wd4aN2K9biewyjd3yk3/n+qBiQjyzV/87cBvhqBiGf6+98xfbnyL/8hPMxHp4ZyG9poOYPxsf8KH+uI+sR5a/Y0Zzr8dUcnuWrfGf6T8XlFunP/M3qGqzeP64B8lXto/wzxnzuPe7djN7I5J5g/n473kN/tqo3svk+In+3J589y+c5qviKi/xMDDxHFV/F4Ov4zlF3u9cfahYUYCr9d3vWrgR5rM4E5KsaON/rdlr9XkBb5bd0x74pVvcRxzBjyD9ELKi/95/6LsjysZ4YA/PVPc7m72d8RQyoc7Fa90z+/P5HPfEuRPnzLBlhRd+/Sn/2a+9b7I/4LSb6D6NYEqY=
+  </data>
+ </layer>
+</map>

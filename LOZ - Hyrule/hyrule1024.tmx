@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="64" height="64" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="Ultima_4_-_Tiles" tilewidth="16" tileheight="16">
+  <image source="Ultima_4_-_Tiles.png" width="256" height="256"/>
+ </tileset>
+ <imagelayer name="Image Layer 1" width="64" height="64">
+  <image source="zelda-1024.png"/>
+ </imagelayer>
+ <layer name="Tile Layer 1" width="64" height="64">
+  <data encoding="base64" compression="zlib">
+   eJzdmmtu20AMhNcxHNk3yP1P2hbIAsxoZji7SoOiPwjEssXlx7ccv8YYr/9Y3n7Lrcjzoj53/7PIFZ3sdaKXfe4G0nHU+5+Nbnc+6mG6ktf3Iuoz6lyUmzjP2a/ExdHZlej8bv752vGv2upyY5ef6d/lZ/Z08We6uuvp+ck9qs7uQkdiw0r+d7Xu6ib53MpZVe4bupi+lP9fk5S/k7d/gOVv8Kfx7D6T9oVVvT/Fv1Jz6v6k97nevxqThB35Uxs6xiv8avZ090y5L0g6X+r5WOtX+BOeFXFcSV539j4++Tsf7NaAupawz5xOcjatecfvfJD2ke7zrq+omr7C3gny30Zm108J7rI/wY8+eIlrae5d5Z9/v4M8PoUxpWcrfib1ngc539U9vu/6C/I/4FznA+cTZvN83eXAKj8yd/zPoruew/irD9CWTtBHjL/2QYyN0/sd8Ue9d3PmjjgO5E/sc/wrM0/pvsLPbO44WPx3+dn9K7Gv9uxwdzYnPlA2qtddT+v4XU0yW7EHpOzqzHr2Dv+qrPBXH6j+l/b9P3KQa8jP9CXXdqTyM/bJP9lVb1b86PPjU88h+KsP3sQZLv4uLo5f7ePIr3LI9b6az8jv8m6HX/nAxek1zuzP8ZXf9Rs8z/G/An7c/1b7cHKNnYt8jH++V58Run6H/mL81ZZk/+24dvlxTnwsxl/Fnn2e3av2YeXbjtX5T/Gz+p894Aq/qs+Ov8uv1zizqn6g2FnfY7OP1QjTrfaxJI6q/zl+1dfra9Vj3dxD/poDbBawfldlzv9jnHcBx6/6diqr/Mzf1eY6v93u3c2nY/heyHJ7lb/qZO937AcI2s2eN9J+WfWwHEjyn/mcnaeeMZOYM37Fh9+RoH0HOUP1wpX+6nqOe77qnvcY/4OcPcXxv48zv+qFu/ws3xS/e86pHJVdzYLKX2OqfMP8oOrV1X0Sf8z/LvZzT68+OcbZRyyf2HeErDZwvjj+TroZxPhZ7Gue43e/eP0YZzuQDz9T4/4+vvqWzSrFq+Yxm88H6FT9nvU6ZD/Ia7RJ9Q6sLTwr5ce4vBPdDzgD54p6vlc+cK/rddc72RlqXjt+rBs8F/2BNrnvN1meVz2OX+lTMVe16/iV3ZW7k/T7XeZXVQ+qPyof4u7EelXKr865yu/Ocjnf5RLOhW5ev8Z5ljkfYP05fraP1fvUvpL42fGr3UnNP/b8jPPZ7SyPci/jZ/1Z6az2sfmB7OiDJP6VX73vYsD6E/LX+ehmH/PpMc4zBOvf6WU+UPvvCj/rM7v8mD/sutofO361PyF/l+Nu/qtZk/y+wfFXzsmP1zF/On24/zB+xqh8gVLziPGzOTT9wOZbZcf87+aeyqm5uzp+FnP0A2NH/u53a3WfVn7tvi9SualymPXWdKdxcWd9NuGf3+OoOX8n/DgDVI52ecv4WS10ua+4PsL4q56q4oA1jTWheivjvzW+6/zoYp/8brN7pnPsWNtqDigfVP4quA+5/s/4V2pf7bhutrFax3mi5oKqf2THfVD1Ftbf1W87We/H/o9s2LfZMzragfyMD/u/mlPOB1gDU9Rv1RV/tbnmqNsdKgfzC/sb2Se/4u584Gaf4qz62D7KeJiubg67nQ/zv2NnezGeuTP3mF6Xh8pfzg/qffY/ycRW7FOq/63wP8fZvp04pILfzc0a6XKfzaor/V/Fc8dfak/s/gc5599q76s+YPYxflXPKnc7n638r5VxT2Gzj8Vc7X8uB1w/UnM5mRkp2xR1HfcfF28lqu9O/m5HS/zgmN1v2xP5BStRbXo=
+  </data>
+ </layer>
+ <layer name="Mountain noise" width="64" height="64">
+  <data encoding="base64" compression="zlib">
+   eJzt1tEKwyAMBVBfBv7/F4/BBnsQ5yC2JJ4DQp/a3JjWtgb36e91st704aVS/qx7GlV3H6ydIu4fWevV2SNrjnLV/Ec9I2v+KNHzmin7R8bv9o5as/Vgh1/5q/Zo5ezK+J78YzV/daOcFbPPZn70L1sx//f1rAfVnZITgHWnnQsnnfszp+cH5h53FwAAAAAAAAAAHOkJTqUCxg==
+  </data>
+ </layer>
+ <layer name="Dungeons" width="64" height="64">
+  <data encoding="base64" compression="zlib">
+   eJzt2MEJACAIBdDOQTO0/5btUFEq790FwYNfWyOjflg/rnQBAABxybyw5/TeBOKavxvgKVkIapDNcjEvACqy3wAAAAAAqMLPG4BMFhoeAIM=
+  </data>
+ </layer>
+</map>
