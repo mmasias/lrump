@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="64" height="42" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="Ultima_4_-_Tiles" tilewidth="16" tileheight="16">
+  <image source="Ultima_4_-_Tiles.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="257" name="Ultima_5_-_Tiles" tilewidth="16" tileheight="16">
+  <image source="Ultima_5_-_Tiles.png" width="512" height="288"/>
+ </tileset>
+ <imagelayer name="Fancy" width="64" height="42">
+  <image source="fancy.png"/>
+ </imagelayer>
+ <imagelayer name="Struct" width="64" height="42">
+  <image source="structure.png"/>
+ </imagelayer>
+ <layer name="Tile Layer 1" width="64" height="42">
+  <data encoding="base64" compression="zlib">
+   eJztWV1PwzAM3B66dgj+ARqCAfv//xAmUck63dnORxce+nDa2iaO7+w4SXs+HA7nHTt2bIbpH/gwiveK/6Bjb3/Q7pZx98bIcFrbvB77x/lucyJjlWrN2lu/PY3VOD1jPhGbDO9H/7nyEftl/G99HsWiBhH/3rplOZS0K/X99IcS/ksn3R6JE8Fkfh/JfwEbC7nn5UAtf6ZDKQ/mp9dvEWBaevyzfi2EF7uO4l8So9tvvw+CL7CHv2hLaaH0VdoqvhhzvI7GUdqrfpGe2fwv4Y8xVbleyt/LvQz/KHdr7Huasflun8/OOGcxxqfI85vDv8faUBMXr86v/K0Gl0S82PM3cn/V73rUtaEEN6glChfC3+M+Q0wjX79JPUNdcJ26P7sEfkdgGntg9e5JaFCTnzjv7LxBRPaj2hrNgWz+e7nVwj0Tf7SBexi2FrTwj/Y6Nv/RrlpTvTXKO/9k91Tsf8Rf+aPmvdWiJf8R16B22bYzIDsPVJwy/ql1C2sagq2RWbyA32ewqzRQ9mxtVr6ivZIcjGzO5p7HIRrba18yxzKxra1xGS0s2N7Sq38qf0vzf70fxaIm/h5fy5txZ2OruNasf7j2Kt4L6ZsBq5tKg1K/vXOwd+2dMeagf48aj+vGdCjnnwGekzP8maaoXeseFHNh5R9p0GN/WcM/k4MteZBtb8fGPXjE/47MGVNpptq0alCClvhn5nDG/sj3s9mx2TuH5wR/b++ZPdduCW9/qd7pZuPf89tHLTI+tH67svy97yNbcVLfbrzxW7/Z9YLyl/1HLqN978E7E1s1F0dzGKnVaJ9Gwe5RRvsyOh9G+7Fjh8IP11RfJA==
+  </data>
+ </layer>
+ <layer name="Decoration" width="64" height="42">
+  <data encoding="base64" compression="zlib">
+   eJzt0k0KgzAQgNE5So/kFSyCFfyBdlV6+Y4kbgQXrkR4Dz6UmIAwiQAAAAAAAAA473H1DwAA3MQva+pz35S12Tv7HOzZznJPz+wbZYbrjMcoM1/fX9mQzVlf93RR7kNb15b6Hfb+GCsP3Q==
+  </data>
+ </layer>
+</map>
