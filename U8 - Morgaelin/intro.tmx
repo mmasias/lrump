@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="64" height="64" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="u8tiles1x" tilewidth="16" tileheight="16">
+  <image source="../../../git/morgaelin/morgaelin-android/assets/images/u8tiles1x.png" trans="e400ff" width="256" height="512"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="64" height="64">
+  <data encoding="base64" compression="zlib">
+   eJztlksOwjAMBUHQ+1+ZDWwif2mlvDSzGInSUHWeHYfj+XgcX94Bx42xPMfvOjmslFdUb+u6ktcd/KM9EF2v5P5PBp7fnf0tz+w5s53OuHd8on2xCtks6/R2lp9aj2Q9nu397MyoZjXT3/O0alfxV/Lr1CA767L5b61Tz+BMfb38okyU9r7lOHp6fR3V93f/5WQy27eSQaVOnf9LinWv9EFl/VV5znbu+I3rPGdrnRpnahT1e5SVEpX5V/Gu7HlF//Fdo7OuM/MsZ2X/zLOSQ/RsRfdODatzLusvJf49o1Y427oe1j2vfp2Zr0zU651esD53857lb713Nvs8f69vlJyzGmYe1d8q+3oZdM71yH8VrujPlf3H9981A7iGnftgd/cd/Xf1BgAAAAAAAAAAAAAAAAAALT4Qr16Q
+  </data>
+ </layer>
+</map>
