@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="74" height="62" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="Ultima_4_-_Tiles" tilewidth="16" tileheight="16">
+  <image source="Ultima_4_-_Tiles.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="257" name="Ultima_5_-_Tiles" tilewidth="16" tileheight="16">
+  <image source="../UW-1/Ultima_5_-_Tiles.png" width="512" height="288"/>
+ </tileset>
+ <imagelayer name="Imagfe" width="74" height="62">
+  <image source="Despiseu7.jpg"/>
+ </imagelayer>
+ <layer name="Tile Layer 1" width="74" height="62">
+  <data encoding="base64" compression="zlib">
+   eJztmUFuwyAQRVnUi94hR7HUTaVueqdcvcoiCprOzP9gzOBApVFUh9jwePlg555Sug9Un0pF92nEenD5yGpxsjltixPN6VmL04uLrM04Ht3XaE6bUrN7VeKP5DSTV8gfj9NMXiF/mP+jxxDpE1tX58Tmh+fTnt7fJ3YcTD7J872bT8y6pHmk+fKu+yg5/6XjsThd1SPGh5r9Tp5PJX6OWo/+/mSF1q8STtb3LnrMyA+rJKcW++daTl4/W3Py7qu0YjnV9KOGU499lpYrVs6gKvFItivl5F1X7sPO8KmmdjGPJR4c4WTtv87wyluvrLw5st55HtRwYs/XK6dY79B8Mtcp5eT14wxOjC+eX2h+j7ar9allTrXyrdRDb3yeF+j6u/J+L07aOKx+el6yzwUQJ9R+BK8kpz3p88gWw/1ITkV4hcaF/Kn1CvWHzcFROOV/bHvLT5bTZpwv/700ihOaP43TEZ9QaZ/XOPXIKSs38/m8AU5o3WPae/nzpVTvnGI4WfOMvEDrFptzV+GUjOPeOonaMevls39PNrcLcfol2qOckb7sxvG7cT6renDy8iE57dDnGV96enGEkzXvpeuRddxqZ/kSzaTEq6MlfRl9/DVe1a5vyJdW/WvR7mzPorx4XPdGXD/K31HyA+Wc1y6iv1Fl5afFKdr/SE5WbqL3Z/RKeuPtw2b2SuOU+6PdFyxO+j0lk2OzFOPTyifMaXaPPE4l9wmzlJfb2v5gVr+8fdLiZHuFXhen1/jlc1HruWl0nyM5lT4Xm620fJI+rX2UvY/SXqP7Ohon77nCrIXWs8XpxUHmUp5DK590b676+2BvTt8Kp5nv71ifVv3ntLxpX3/LElZh
+  </data>
+ </layer>
+ <layer name="Decoration" width="74" height="62">
+  <data encoding="base64" compression="zlib">
+   eJzt2MEJwjAYxfGcnUIcxF0EiwqionhyEXEABcElHEsvfqEJeDBQbeGZ5v+DB2laymtIe6hzAAAAQD9c1QXQS0N1gUwM1AUAAMBXRuoCQENndQFINf1WnRLz7/vn0rKLd+/gHsjPp73Dt6k7vFcASnJUFwAAoECpfwb/6KYuAAD42UNdACjYU10AAABkb2rZW1aWmaWyrMPxIZz3czvLxrII40pRVsg/89IyCeO5q9cirltcq224xs/FdQQAtDdWFwCQ9AIanhcw
+  </data>
+ </layer>
+ <layer name="U5 doors" width="74" height="62">
+  <data encoding="base64" compression="zlib">
+   eJzt18EJwCAMBVDdf4Nu0u16KgXRi0KV5L2L1+QjMZYCAABQyl13VwDQZz4B0Z06506tC+BEEWZmhB5mvb1nzmDVKDuZrpPhRxbslHnOZejxL22WdhAAACA6/x0AoHXV/vmyPzBjdJ8AdvGeAeTxAOtLEko=
+  </data>
+ </layer>
+</map>
