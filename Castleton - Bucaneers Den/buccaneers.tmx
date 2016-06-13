@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="64" height="64" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="Ultima_5_-_Tiles" tilewidth="16" tileheight="16">
+  <image source="Ultima_5_-_Tiles.png" trans="476c6c" width="512" height="288"/>
+ </tileset>
+ <tileset firstgid="577" name="Ultima_4_-_Tiles" tilewidth="16" tileheight="16">
+  <image source="Ultima_4_-_Tiles.png" trans="476c6c" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="833" name="u1_tileset" tilewidth="16" tileheight="16">
+  <image source="u1_tileset.png" trans="476c6c" width="1152" height="64"/>
+ </tileset>
+ <imagelayer name="Image Layer 1" width="64" height="64">
+  <image source="../../../../Desktop/buca.png"/>
+ </imagelayer>
+ <layer name="Tile Layer 2" width="64" height="64">
+  <data encoding="base64" compression="zlib">
+   eJzt2c1qwzAMB/AwaIvbdLDL3qd7kw02SmGw9z+tZjETwh+RbCpL8UHQsot/f9lyml2epukyatSoh9VboqTXJe3fQg4lu/UcKH6LGVD9lrKosVvIoIVfawat7Br9Le3a/Gs88/RXljJY6/Du81JWMqAYavw9ZkBd/wzsHH8vGVDNoc4N/NIZcHvu67ly/0v7a+zQX2PX7G9h1+iHfXfA76b/6t3P6ROeea5Qvdpb7P2Y/4Xol7JzMoid/VjPD6As+FN3fWr/e/d+qd79pRxi9uDE/ldkX+PvJYPSnl879/YG/TPod8oPzzzV33MG+JzDz8elUmffgj+357Gfa+8lg9KdNyP3yZCfMvuPqPffETsng57ssPf4WT/Yw7x7T9h3Cvy59eR6D++7mH+nwF9aD9z/c2beWfXDPQDn/8+9Ppa63usGvvv6VGCn+kMGJ3QHxnqvfe7nzoBbMgh74EuxneuP3fWa7jvOGYj93tX+vE/JIOSQ+r1HnffSZm4GqXcd4dlgS36497W8863NIPe+wym591v58ewLZ0BrBjXnH/s1zkKOH54D7NeWAXUGwu/4HtTmp5xXXAdgd+Czpuchrh0/A+A7wbId9h77/d+0/P+nxh+c0Kyl7y3sNSVtH/5t+yXtw79Nv7SZkkHrjKSt0vtE2iGdg/T6H5mB9DqlMpBe29bqF0et2gg=
+  </data>
+ </layer>
+ <layer name="Settlements" width="64" height="64">
+  <data encoding="base64" compression="zlib">
+   eJzt100KwjAQBeCouyIo/ixEN1atl/EoXsqzeRE7kNAYGiTaZiTvfRDqwsV7TjqgMURERERERPks7EHk916qpdDD/h2U/rF3nf3Lh9xd9PVH6S7Y/x1ydzSod/+XuTeTwWKo+NTdn/9tOmYSHXznsbE/pTpqBxjIN7M/t6cZOoiS1P4PU87sRWr/kmYvUvuXNHsn5Te4j5ZCT0p/mf9hrCBKwv6VPeF35H/ANkuivPz+lenvL3uvNmXtPp+br/Te22ftnatetKxi8y9x78eE3cUqe4r/4N57lPsfcvf+1J6L/bxRypLL3HR7z9/3CDtAuu/sM4TQX/R1Fyj9Y9gfm+v/nKnGUIM+/7V2ACIiIiIiKt4Lk98KgQ==
+  </data>
+ </layer>
+ <layer name="Mobs" width="64" height="64">
+  <data encoding="base64" compression="zlib">
+   eJzt2D0KwkAYhGH1KIpi6RUsBAXxCN7B1sraW/ibCGrAaCEpBI9g713chRFW0EYSJdn3gcEYA2G+zVqkVAIApKFazv4e9x/cAwAAAAAAANlo691O13yOPXvPM3nTt+nZDKyROnc87O7qe9h/UODOtwJ3A5BfNf6bgL/osfcgDZ4Frww9XO+rh53T0mJ2hddljeG5yxd7YMq+AXKrzv4FAOCtpPKaucnJZKHMTPYmK+VgEuvapc7Z3/PK9jiahOqSqHPgfI9M1jqOdX2kWex0Lq/sep+dblv1jzWTjdY3cNb84MwoKsD6f0qofnPNJXKelUSzeQawHm9LOkM=
+  </data>
+ </layer>
+</map>
